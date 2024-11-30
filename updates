@@ -1,79 +1,198 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="89949" tvg-name="USA NCAAF 01: NCAAF Ball State at Ohio @12:00 pm" tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAAF",USA NCAAF 01: NCAAF Ball State at Ohio @12:00 pm
+#EXTINF:-1 tvg-id="77158" tvg-name="USA PPV01: Boxing: Sunny Edwards vs Galal Yafai @ 02:00 PM" tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="USA PPV",USA PPV01: Boxing: Sunny Edwards vs Galal Yafai @ 02:00 PM
+http://user.scalecdn.co:8080/26725074/92867131/5597
+#EXTINF:-1 tvg-id="77232" tvg-name="USA PPV02: Colosseum Tournament 45: London @ 02:00 PM" tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="USA PPV",USA PPV02: Colosseum Tournament 45: London @ 02:00 PM
+http://user.scalecdn.co:8080/26725074/92867131/5598
+#EXTINF:-1 tvg-id="77230" tvg-name="USA PPV03: Rumble in the Roc @ 07:00 PM" tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="USA PPV",USA PPV03: Rumble in the Roc @ 07:00 PM
+http://user.scalecdn.co:8080/26725074/92867131/5599
+#EXTINF:-1 tvg-id="77231" tvg-name="USA PPV04: JCW: Spanks Givin 2024 @ 08:00 PM" tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="USA PPV",USA PPV04: JCW: Spanks Givin 2024 @ 08:00 PM
+http://user.scalecdn.co:8080/26725074/92867131/21292
+#EXTINF:-1 tvg-id="77220" tvg-name="USA PPV05: The Kings of the Canvas: DeAngelo Evans vs William Encarnacion @ 08:00 PM" tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="USA PPV",USA PPV05: The Kings of the Canvas: DeAngelo Evans vs William Encarnacion @ 08:00 PM
+http://user.scalecdn.co:8080/26725074/92867131/21293
+#EXTINF:-1 tvg-id="77233" tvg-name="USA PPV06: Weber Women's Big Bash League, Season 10: Final - Melbourne Renegades vs Brisbane Heat @ 09:10 PM" tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="USA PPV",USA PPV06: Weber Women's Big Bash League, Season 10: Final - Melbourne Renegades vs Brisbane Heat @ 09:10 PM
+http://user.scalecdn.co:8080/26725074/92867131/21817
+#EXTINF:-1 tvg-id="78094" tvg-name="USA PPV07:  WWE: Survivor Series War Games 2024  @ 04/06:00 PM" tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="USA PPV",USA PPV07:  WWE: Survivor Series War Games 2024  @ 04/06:00 PM
+http://user.scalecdn.co:8080/26725074/92867131/21819
+#EXTINF:-1 tvg-id="78096" tvg-name="USA PPV08: 2024 mosconi cup (DAZNZ) @ 01:00 PM" tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="USA PPV",USA PPV08: 2024 mosconi cup (DAZNZ) @ 01:00 PM
+http://user.scalecdn.co:8080/26725074/92867131/21820
+#EXTINF:-1 tvg-id="78097" tvg-name="USA PPV09: " tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="USA PPV",USA PPV09:
+http://user.scalecdn.co:8080/26725074/92867131/21851
+#EXTINF:-1 tvg-id="78098" tvg-name="USA PPV10: " tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="USA PPV",USA PPV10:
+http://user.scalecdn.co:8080/26725074/92867131/21852
+#EXTINF:-1 tvg-id="78099" tvg-name="USA PPV11: " tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="USA PPV",USA PPV11:
+http://user.scalecdn.co:8080/26725074/92867131/21853
+#EXTINF:-1 tvg-id="79282" tvg-name="USA PPV12: " tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="USA PPV",USA PPV12:
+http://user.scalecdn.co:8080/26725074/92867131/21899
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV13: " tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="USA PPV",USA PPV13:
+http://user.scalecdn.co:8080/26725074/92867131/21818
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV14: " tvg-logo="" group-title="USA PPV",USA PPV14:
+http://user.scalecdn.co:8080/26725074/92867131/524646
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV15: " tvg-logo="" group-title="USA PPV",USA PPV15:
+http://user.scalecdn.co:8080/26725074/92867131/524647
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV16: " tvg-logo="" group-title="USA PPV",USA PPV16:
+http://user.scalecdn.co:8080/26725074/92867131/524648
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV17: " tvg-logo="" group-title="USA PPV",USA PPV17:
+http://user.scalecdn.co:8080/26725074/92867131/524649
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV18: " tvg-logo="" group-title="USA PPV",USA PPV18:
+http://user.scalecdn.co:8080/26725074/92867131/524650
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV19: " tvg-logo="" group-title="USA PPV",USA PPV19:
+http://user.scalecdn.co:8080/26725074/92867131/524651
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV20: " tvg-logo="" group-title="USA PPV",USA PPV20:
+http://user.scalecdn.co:8080/26725074/92867131/524652
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV21: " tvg-logo="" group-title="USA PPV",USA PPV21:
+http://user.scalecdn.co:8080/26725074/92867131/524653
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV22: " tvg-logo="" group-title="USA PPV",USA PPV22:
+http://user.scalecdn.co:8080/26725074/92867131/524654
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV23: " tvg-logo="" group-title="USA PPV",USA PPV23:
+http://user.scalecdn.co:8080/26725074/92867131/524655
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV24: " tvg-logo="" group-title="USA PPV",USA PPV24:
+http://user.scalecdn.co:8080/26725074/92867131/524656
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV25: " tvg-logo="" group-title="USA PPV",USA PPV25:
+http://user.scalecdn.co:8080/26725074/92867131/524657
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV26: " tvg-logo="" group-title="USA PPV",USA PPV26:
+http://user.scalecdn.co:8080/26725074/92867131/524658
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV27: " tvg-logo="" group-title="USA PPV",USA PPV27:
+http://user.scalecdn.co:8080/26725074/92867131/524659
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV28: " tvg-logo="" group-title="USA PPV",USA PPV28:
+http://user.scalecdn.co:8080/26725074/92867131/524660
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV29: " tvg-logo="" group-title="USA PPV",USA PPV29:
+http://user.scalecdn.co:8080/26725074/92867131/524661
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV30: " tvg-logo="" group-title="USA PPV",USA PPV30:
+http://user.scalecdn.co:8080/26725074/92867131/524662
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV31: " tvg-logo="" group-title="USA PPV",USA PPV31:
+http://user.scalecdn.co:8080/26725074/92867131/524664
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV32: " tvg-logo="" group-title="USA PPV",USA PPV32:
+http://user.scalecdn.co:8080/26725074/92867131/524665
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV33: " tvg-logo="" group-title="USA PPV",USA PPV33:
+http://user.scalecdn.co:8080/26725074/92867131/524666
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV34: " tvg-logo="" group-title="USA PPV",USA PPV34:
+http://user.scalecdn.co:8080/26725074/92867131/524667
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV35: " tvg-logo="" group-title="USA PPV",USA PPV35:
+http://user.scalecdn.co:8080/26725074/92867131/524668
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV36: " tvg-logo="" group-title="USA PPV",USA PPV36:
+http://user.scalecdn.co:8080/26725074/92867131/524669
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV37: " tvg-logo="" group-title="USA PPV",USA PPV37:
+http://user.scalecdn.co:8080/26725074/92867131/524670
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV38: " tvg-logo="" group-title="USA PPV",USA PPV38:
+http://user.scalecdn.co:8080/26725074/92867131/524671
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV39: " tvg-logo="" group-title="USA PPV",USA PPV39:
+http://user.scalecdn.co:8080/26725074/92867131/524672
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV40: " tvg-logo="" group-title="USA PPV",USA PPV40:
+http://user.scalecdn.co:8080/26725074/92867131/524673
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV41: " tvg-logo="" group-title="USA PPV",USA PPV41:
+http://user.scalecdn.co:8080/26725074/92867131/554697
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV42: " tvg-logo="" group-title="USA PPV",USA PPV42:
+http://user.scalecdn.co:8080/26725074/92867131/554698
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV43: " tvg-logo="" group-title="USA PPV",USA PPV43:
+http://user.scalecdn.co:8080/26725074/92867131/554699
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV44: " tvg-logo="" group-title="USA PPV",USA PPV44:
+http://user.scalecdn.co:8080/26725074/92867131/554700
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV45: " tvg-logo="" group-title="USA PPV",USA PPV45:
+http://user.scalecdn.co:8080/26725074/92867131/554701
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV46: " tvg-logo="" group-title="USA PPV",USA PPV46:
+http://user.scalecdn.co:8080/26725074/92867131/554702
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV47: " tvg-logo="" group-title="USA PPV",USA PPV47:
+http://user.scalecdn.co:8080/26725074/92867131/554703
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV48: " tvg-logo="" group-title="USA PPV",USA PPV48:
+http://user.scalecdn.co:8080/26725074/92867131/554704
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV49: " tvg-logo="" group-title="USA PPV",USA PPV49:
+http://user.scalecdn.co:8080/26725074/92867131/554705
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV50: " tvg-logo="" group-title="USA PPV",USA PPV50:
+http://user.scalecdn.co:8080/26725074/92867131/554706
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV51: " tvg-logo="" group-title="USA PPV",USA PPV51:
+http://user.scalecdn.co:8080/26725074/92867131/554707
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV52: " tvg-logo="" group-title="USA PPV",USA PPV52:
+http://user.scalecdn.co:8080/26725074/92867131/554708
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV53: " tvg-logo="" group-title="USA PPV",USA PPV53:
+http://user.scalecdn.co:8080/26725074/92867131/554709
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV54: " tvg-logo="" group-title="USA PPV",USA PPV54:
+http://user.scalecdn.co:8080/26725074/92867131/554710
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV55: " tvg-logo="" group-title="USA PPV",USA PPV55:
+http://user.scalecdn.co:8080/26725074/92867131/554711
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV56: " tvg-logo="" group-title="USA PPV",USA PPV56:
+http://user.scalecdn.co:8080/26725074/92867131/554712
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV57: " tvg-logo="" group-title="USA PPV",USA PPV57:
+http://user.scalecdn.co:8080/26725074/92867131/554713
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV58: " tvg-logo="" group-title="USA PPV",USA PPV58:
+http://user.scalecdn.co:8080/26725074/92867131/554714
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV59: " tvg-logo="" group-title="USA PPV",USA PPV59:
+http://user.scalecdn.co:8080/26725074/92867131/554715
+#EXTM3U
+#EXTINF:-1 tvg-id="89949" tvg-name="USA NCAAF 01: NCAAF Duke at Wake Forest @12:00 pm" tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAAF",USA NCAAF 01: NCAAF Duke at Wake Forest @12:00 pm
 http://user.scalecdn.co:8080/26725074/92867131/383558
-#EXTINF:-1 tvg-id="89950" tvg-name="USA NCAAF 02: NCAAF Miami Ohio at Bowling Green @12:00 pm" tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAAF",USA NCAAF 02: NCAAF Miami Ohio at Bowling Green @12:00 pm
+#EXTINF:-1 tvg-id="89950" tvg-name="USA NCAAF 02: NCAAF Illinois at Northwestern @12:00 pm" tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAAF",USA NCAAF 02: NCAAF Illinois at Northwestern @12:00 pm
 http://user.scalecdn.co:8080/26725074/92867131/383559
-#EXTINF:-1 tvg-id="89951" tvg-name="USA NCAAF 03: NCAAF Minnesota at Wisconsin @12:00 pm" tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAAF",USA NCAAF 03: NCAAF Minnesota at Wisconsin @12:00 pm
+#EXTINF:-1 tvg-id="89951" tvg-name="USA NCAAF 03: NCAAF Kansas at Baylor @12:00 pm" tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAAF",USA NCAAF 03: NCAAF Kansas at Baylor @12:00 pm
 http://user.scalecdn.co:8080/26725074/92867131/383560
-#EXTINF:-1 tvg-id="89952" tvg-name="USA NCAAF 04: NCAAF Navy at East Carolina @12:00 pm" tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAAF",USA NCAAF 04: NCAAF Navy at East Carolina @12:00 pm
+#EXTINF:-1 tvg-id="89952" tvg-name="USA NCAAF 04: NCAAF Louisiana Lafayette at Louisiana Monroe @12:00 pm" tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAAF",USA NCAAF 04: NCAAF Louisiana Lafayette at Louisiana Monroe @12:00 pm
 http://user.scalecdn.co:8080/26725074/92867131/383561
-#EXTINF:-1 tvg-id="89953" tvg-name="USA NCAAF 05: NCAAF Oklahoma State at Colorado @12:00 pm" tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAAF",USA NCAAF 05: NCAAF Oklahoma State at Colorado @12:00 pm
+#EXTINF:-1 tvg-id="89953" tvg-name="USA NCAAF 05: NCAAF Louisville at Kentucky @12:00 pm" tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAAF",USA NCAAF 05: NCAAF Louisville at Kentucky @12:00 pm
 http://user.scalecdn.co:8080/26725074/92867131/383562
-#EXTINF:-1 tvg-id="89954" tvg-name="USA NCAAF 06: NCAAF Oregon State at Boise State @12:00 pm" tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAAF",USA NCAAF 06: NCAAF Oregon State at Boise State @12:00 pm
+#EXTINF:-1 tvg-id="89954" tvg-name="USA NCAAF 06: NCAAF Michigan at Ohio State @12:00 pm" tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAAF",USA NCAAF 06: NCAAF Michigan at Ohio State @12:00 pm
 http://user.scalecdn.co:8080/26725074/92867131/383563
-#EXTINF:-1 tvg-id="89955" tvg-name="USA NCAAF 07: NCAAF Liberty at Sam Houston @3:30 pm" tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAAF",USA NCAAF 07: NCAAF Liberty at Sam Houston @3:30 pm
+#EXTINF:-1 tvg-id="89955" tvg-name="USA NCAAF 07: NCAAF South Carolina at Clemson @12:00 pm" tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAAF",USA NCAAF 07: NCAAF South Carolina at Clemson @12:00 pm
 http://user.scalecdn.co:8080/26725074/92867131/383564
-#EXTINF:-1 tvg-id="89956" tvg-name="USA NCAAF 08: NCAAF Mississippi State at Ole Miss @3:30 pm" tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAAF",USA NCAAF 08: NCAAF Mississippi State at Ole Miss @3:30 pm
+#EXTINF:-1 tvg-id="89956" tvg-name="USA NCAAF 08: NCAAF Tennessee at Vanderbilt @12:00 pm" tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAAF",USA NCAAF 08: NCAAF Tennessee at Vanderbilt @12:00 pm
 http://user.scalecdn.co:8080/26725074/92867131/383565
-#EXTINF:-1 tvg-id="89957" tvg-name="USA NCAAF 09: NCAAF Utah State at Colorado State @3:30 pm" tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAAF",USA NCAAF 09: NCAAF Utah State at Colorado State @3:30 pm
+#EXTINF:-1 tvg-id="89957" tvg-name="USA NCAAF 09: NCAAF UTSA at Army @12:00 pm" tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAAF",USA NCAAF 09: NCAAF UTSA at Army @12:00 pm
 http://user.scalecdn.co:8080/26725074/92867131/383566
-#EXTINF:-1 tvg-id="89958" tvg-name="USA NCAAF 10: NCAAF Stanford at San Jose State @4:00 pm" tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAAF",USA NCAAF 10: NCAAF Stanford at San Jose State @4:00 pm
+#EXTINF:-1 tvg-id="89958" tvg-name="USA NCAAF 10: NCAAF West Virginia at Texas Tech @12:00 pm" tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAAF",USA NCAAF 10: NCAAF West Virginia at Texas Tech @12:00 pm
 http://user.scalecdn.co:8080/26725074/92867131/383567
-#EXTINF:-1 tvg-id="89959" tvg-name="USA NCAAF 11: NCAAF Georgia Tech at Georgia @7:30 pm" tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAAF",USA NCAAF 11: NCAAF Georgia Tech at Georgia @7:30 pm
+#EXTINF:-1 tvg-id="89959" tvg-name="USA NCAAF 11: NCAAF Grambling at Southern @2:00 pm" tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAAF",USA NCAAF 11: NCAAF Grambling at Southern @2:00 pm
 http://user.scalecdn.co:8080/26725074/92867131/383568
-#EXTINF:-1 tvg-id="89960" tvg-name="USA NCAAF 12: NCAAF Nebraska at Iowa @7:30 pm" tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAAF",USA NCAAF 12: NCAAF Nebraska at Iowa @7:30 pm
+#EXTINF:-1 tvg-id="89960" tvg-name="USA NCAAF 12: NCAAF Pitt at Boston College @3:00 pm" tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAAF",USA NCAAF 12: NCAAF Pitt at Boston College @3:00 pm
 http://user.scalecdn.co:8080/26725074/92867131/383569
-#EXTINF:-1 tvg-id="89961" tvg-name="USA NCAAF 13: NCAAF Utah at UCF @8:00 pm" tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAAF",USA NCAAF 13: NCAAF Utah at UCF @8:00 pm
+#EXTINF:-1 tvg-id="89961" tvg-name="USA NCAAF 13: NCAAF Arkansas at Missouri @3:30 pm" tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAAF",USA NCAAF 13: NCAAF Arkansas at Missouri @3:30 pm
 http://user.scalecdn.co:8080/26725074/92867131/383570
-#EXTINF:-1 tvg-id="89962" tvg-name="USA NCAAF 14: " tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAAF",USA NCAAF 14:
+#EXTINF:-1 tvg-id="89962" tvg-name="USA NCAAF 14: NCAAF Arizona State at Arizona @3:30 pm" tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAAF",USA NCAAF 14: NCAAF Arizona State at Arizona @3:30 pm
 http://user.scalecdn.co:8080/26725074/92867131/383571
-#EXTINF:-1 tvg-id="89963" tvg-name="USA NCAAF 15: " tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAAF",USA NCAAF 15:
+#EXTINF:-1 tvg-id="89963" tvg-name="USA NCAAF 15: NCAAF Auburn at Alabama @3:30 pm" tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAAF",USA NCAAF 15: NCAAF Auburn at Alabama @3:30 pm
 http://user.scalecdn.co:8080/26725074/92867131/383572
-#EXTINF:-1 tvg-id="89964" tvg-name="USA NCAAF 16: " tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAAF",USA NCAAF 16:
+#EXTINF:-1 tvg-id="89964" tvg-name="USA NCAAF 16: NCAAF California at SMU @3:30 pm" tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAAF",USA NCAAF 16: NCAAF California at SMU @3:30 pm
 http://user.scalecdn.co:8080/26725074/92867131/383573
-#EXTINF:-1 tvg-id="89965" tvg-name="USA NCAAF 17: " tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAAF",USA NCAAF 17:
+#EXTINF:-1 tvg-id="89965" tvg-name="USA NCAAF 17: NCAAF Central Michigan at Northern Illinois @3:30 pm" tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAAF",USA NCAAF 17: NCAAF Central Michigan at Northern Illinois @3:30 pm
 http://user.scalecdn.co:8080/26725074/92867131/383574
-#EXTINF:-1 tvg-id="89966" tvg-name="USA NCAAF 18: " tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAAF",USA NCAAF 18:
+#EXTINF:-1 tvg-id="89966" tvg-name="USA NCAAF 18: NCAAF Fresno State at UCLA @3:30 pm" tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAAF",USA NCAAF 18: NCAAF Fresno State at UCLA @3:30 pm
 http://user.scalecdn.co:8080/26725074/92867131/383575
-#EXTINF:-1 tvg-id="89967" tvg-name="USA NCAAF 19: " tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAAF",USA NCAAF 19:
+#EXTINF:-1 tvg-id="89967" tvg-name="USA NCAAF 19: NCAAF Maryland at Penn State @3:30 pm" tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAAF",USA NCAAF 19: NCAAF Maryland at Penn State @3:30 pm
 http://user.scalecdn.co:8080/26725074/92867131/383576
-#EXTINF:-1 tvg-id="89968" tvg-name="USA NCAAF 20: " tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAAF",USA NCAAF 20:
+#EXTINF:-1 tvg-id="89968" tvg-name="USA NCAAF 20: NCAAF Miami at Syracuse @3:30 pm" tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAAF",USA NCAAF 20: NCAAF Miami at Syracuse @3:30 pm
 http://user.scalecdn.co:8080/26725074/92867131/383577
-#EXTINF:-1 tvg-id="89969" tvg-name="USA NCAAF 21: " tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAAF",USA NCAAF 21:
+#EXTINF:-1 tvg-id="89969" tvg-name="USA NCAAF 21: NCAAF NC State at North Carolina @3:30 pm" tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAAF",USA NCAAF 21: NCAAF NC State at North Carolina @3:30 pm
 http://user.scalecdn.co:8080/26725074/92867131/383578
-#EXTINF:-1 tvg-id="89970" tvg-name="USA NCAAF 22: " tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAAF",USA NCAAF 22:
+#EXTINF:-1 tvg-id="89970" tvg-name="USA NCAAF 22: NCAAF Notre Dame at USC @3:30 pm" tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAAF",USA NCAAF 22: NCAAF Notre Dame at USC @3:30 pm
 http://user.scalecdn.co:8080/26725074/92867131/383579
-#EXTINF:-1 tvg-id="89971" tvg-name="USA NCAAF 23: " tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAAF",USA NCAAF 23:
+#EXTINF:-1 tvg-id="89971" tvg-name="USA NCAAF 23: NCAAF Rutgers at Michigan State @3:30 pm" tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAAF",USA NCAAF 23: NCAAF Rutgers at Michigan State @3:30 pm
 http://user.scalecdn.co:8080/26725074/92867131/383580
-#EXTINF:-1 tvg-id="89972" tvg-name="USA NCAAF 24: " tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAAF",USA NCAAF 24:
+#EXTINF:-1 tvg-id="89972" tvg-name="USA NCAAF 24: NCAAF Jacksonville State at Western Kentucky @4:00 pm" tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAAF",USA NCAAF 24: NCAAF Jacksonville State at Western Kentucky @4:00 pm
 http://user.scalecdn.co:8080/26725074/92867131/383581
-#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 25: " tvg-logo="" group-title="SPORTS - NCAAF",USA NCAAF 25:
+#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 25: NCAAF Wyoming at Washington State @6:30 pm" tvg-logo="" group-title="SPORTS - NCAAF",USA NCAAF 25: NCAAF Wyoming at Washington State @6:30 pm
 http://user.scalecdn.co:8080/26725074/92867131/433478
-#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 26: " tvg-logo="" group-title="SPORTS - NCAAF",USA NCAAF 26:
+#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 26: NCAAF Florida at Florida State @7:00 pm" tvg-logo="" group-title="SPORTS - NCAAF",USA NCAAF 26: NCAAF Florida at Florida State @7:00 pm
 http://user.scalecdn.co:8080/26725074/92867131/433479
-#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 27: " tvg-logo="" group-title="SPORTS - NCAAF",USA NCAAF 27:
+#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 27: NCAAF Oklahoma at LSU @7:00 pm" tvg-logo="" group-title="SPORTS - NCAAF",USA NCAAF 27: NCAAF Oklahoma at LSU @7:00 pm
 http://user.scalecdn.co:8080/26725074/92867131/433480
-#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 28: " tvg-logo="" group-title="SPORTS - NCAAF",USA NCAAF 28:
+#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 28: NCAAF Purdue at Indiana @7:00 pm" tvg-logo="" group-title="SPORTS - NCAAF",USA NCAAF 28: NCAAF Purdue at Indiana @7:00 pm
 http://user.scalecdn.co:8080/26725074/92867131/433481
-#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 29: " tvg-logo="" group-title="SPORTS - NCAAF",USA NCAAF 29:
+#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 29: NCAAF Kansas State at Iowa State @7:30 pm" tvg-logo="" group-title="SPORTS - NCAAF",USA NCAAF 29: NCAAF Kansas State at Iowa State @7:30 pm
 http://user.scalecdn.co:8080/26725074/92867131/433482
-#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 30: " tvg-logo="" group-title="SPORTS - NCAAF",USA NCAAF 30:
+#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 30: NCAAF Texas at Texas A&M @7:30 pm" tvg-logo="" group-title="SPORTS - NCAAF",USA NCAAF 30: NCAAF Texas at Texas A&M @7:30 pm
 http://user.scalecdn.co:8080/26725074/92867131/433483
-#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 31: " tvg-logo="" group-title="SPORTS - NCAAF",USA NCAAF 31:
+#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 31: NCAAF Texas at Texas A&M @7:30 pm" tvg-logo="" group-title="SPORTS - NCAAF",USA NCAAF 31: NCAAF Texas at Texas A&M @7:30 pm
 http://user.scalecdn.co:8080/26725074/92867131/433484
-#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 32: " tvg-logo="" group-title="SPORTS - NCAAF",USA NCAAF 32:
+#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 32: NCAAF Washington at Oregon @7:30 pm" tvg-logo="" group-title="SPORTS - NCAAF",USA NCAAF 32: NCAAF Washington at Oregon @7:30 pm
 http://user.scalecdn.co:8080/26725074/92867131/433485
-#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 33: " tvg-logo="" group-title="SPORTS - NCAAF",USA NCAAF 33:
+#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 33: NCAAF Marshall at James Madison @8:00 pm" tvg-logo="" group-title="SPORTS - NCAAF",USA NCAAF 33: NCAAF Marshall at James Madison @8:00 pm
 http://user.scalecdn.co:8080/26725074/92867131/433486
-#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 34: " tvg-logo="" group-title="SPORTS - NCAAF",USA NCAAF 34:
+#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 34: NCAAF Nevada at UNLV @8:00 pm" tvg-logo="" group-title="SPORTS - NCAAF",USA NCAAF 34: NCAAF Nevada at UNLV @8:00 pm
 http://user.scalecdn.co:8080/26725074/92867131/433487
-#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 35: " tvg-logo="" group-title="SPORTS - NCAAF",USA NCAAF 35:
+#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 35: NCAAF Virginia at Virginia Tech @8:00 pm" tvg-logo="" group-title="SPORTS - NCAAF",USA NCAAF 35: NCAAF Virginia at Virginia Tech @8:00 pm
 http://user.scalecdn.co:8080/26725074/92867131/433488
-#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 36: " tvg-logo="" group-title="SPORTS - NCAAF",USA NCAAF 36:
+#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 36: NCAAF Houston at BYU @10:15 pm" tvg-logo="" group-title="SPORTS - NCAAF",USA NCAAF 36: NCAAF Houston at BYU @10:15 pm
 http://user.scalecdn.co:8080/26725074/92867131/435658
-#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 37: " tvg-logo="" group-title="SPORTS - NCAAF",USA NCAAF 37:
+#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 37: NCAAF Tennessee State at Montana @10:15 pm" tvg-logo="" group-title="SPORTS - NCAAF",USA NCAAF 37: NCAAF Tennessee State at Montana @10:15 pm
 http://user.scalecdn.co:8080/26725074/92867131/435659
-#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 38: " tvg-logo="" group-title="SPORTS - NCAAF",USA NCAAF 38:
+#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 38: NCAAF Air Force at San Diego State @10:30 pm" tvg-logo="" group-title="SPORTS - NCAAF",USA NCAAF 38: NCAAF Air Force at San Diego State @10:30 pm
 http://user.scalecdn.co:8080/26725074/92867131/435660
 #EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 39: " tvg-logo="" group-title="SPORTS - NCAAF",USA NCAAF 39:
 http://user.scalecdn.co:8080/26725074/92867131/435661
@@ -257,143 +376,25 @@ http://user.scalecdn.co:8080/26725074/92867131/509708
 http://user.scalecdn.co:8080/26725074/92867131/509726
 #EXTINF:-1 tvg-id="" tvg-name="USA NHL Winnipeg Jets" tvg-logo="" group-title="USA NHL",USA NHL Winnipeg Jets
 http://user.scalecdn.co:8080/26725074/92867131/509715
-#EXTINF:-1 tvg-id="77158" tvg-name="USA PPV01: TNA: Countdown to Turning Point 2024 @ 06:30 PM" tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="USA PPV",USA PPV01: TNA: Countdown to Turning Point 2024 @ 06:30 PM
-http://user.scalecdn.co:8080/26725074/92867131/5597
-#EXTINF:-1 tvg-id="77232" tvg-name="USA PPV02: TNA: Turning Point 2024 @ 07:00 PM" tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="USA PPV",USA PPV02: TNA: Turning Point 2024 @ 07:00 PM
-http://user.scalecdn.co:8080/26725074/92867131/5598
-#EXTINF:-1 tvg-id="77230" tvg-name="USA PPV03: The 11th Annual American Reality Television Awards @ 08:00 PM" tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="USA PPV",USA PPV03: The 11th Annual American Reality Television Awards @ 08:00 PM
-http://user.scalecdn.co:8080/26725074/92867131/5599
-#EXTINF:-1 tvg-id="77231" tvg-name="USA PPV04: GCW: You Wouldn't Understand 2024 @ 08:00 PM" tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="USA PPV",USA PPV04: GCW: You Wouldn't Understand 2024 @ 08:00 PM
-http://user.scalecdn.co:8080/26725074/92867131/21292
-#EXTINF:-1 tvg-id="77220" tvg-name="USA PPV05: " tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="USA PPV",USA PPV05:
-http://user.scalecdn.co:8080/26725074/92867131/21293
-#EXTINF:-1 tvg-id="77233" tvg-name="USA PPV06: " tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="USA PPV",USA PPV06:
-http://user.scalecdn.co:8080/26725074/92867131/21817
-#EXTINF:-1 tvg-id="78094" tvg-name="USA PPV07: " tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="USA PPV",USA PPV07:
-http://user.scalecdn.co:8080/26725074/92867131/21819
-#EXTINF:-1 tvg-id="78096" tvg-name="USA PPV08: " tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="USA PPV",USA PPV08:
-http://user.scalecdn.co:8080/26725074/92867131/21820
-#EXTINF:-1 tvg-id="78097" tvg-name="USA PPV09: " tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="USA PPV",USA PPV09:
-http://user.scalecdn.co:8080/26725074/92867131/21851
-#EXTINF:-1 tvg-id="78098" tvg-name="USA PPV10: " tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="USA PPV",USA PPV10:
-http://user.scalecdn.co:8080/26725074/92867131/21852
-#EXTINF:-1 tvg-id="78099" tvg-name="USA PPV11: " tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="USA PPV",USA PPV11:
-http://user.scalecdn.co:8080/26725074/92867131/21853
-#EXTINF:-1 tvg-id="79282" tvg-name="USA PPV12: " tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="USA PPV",USA PPV12:
-http://user.scalecdn.co:8080/26725074/92867131/21899
-#EXTINF:-1 tvg-id="" tvg-name="USA PPV13: " tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="USA PPV",USA PPV13:
-http://user.scalecdn.co:8080/26725074/92867131/21818
-#EXTINF:-1 tvg-id="" tvg-name="USA PPV14: " tvg-logo="" group-title="USA PPV",USA PPV14:
-http://user.scalecdn.co:8080/26725074/92867131/524646
-#EXTINF:-1 tvg-id="" tvg-name="USA PPV15: " tvg-logo="" group-title="USA PPV",USA PPV15:
-http://user.scalecdn.co:8080/26725074/92867131/524647
-#EXTINF:-1 tvg-id="" tvg-name="USA PPV16: " tvg-logo="" group-title="USA PPV",USA PPV16:
-http://user.scalecdn.co:8080/26725074/92867131/524648
-#EXTINF:-1 tvg-id="" tvg-name="USA PPV17: " tvg-logo="" group-title="USA PPV",USA PPV17:
-http://user.scalecdn.co:8080/26725074/92867131/524649
-#EXTINF:-1 tvg-id="" tvg-name="USA PPV18: " tvg-logo="" group-title="USA PPV",USA PPV18:
-http://user.scalecdn.co:8080/26725074/92867131/524650
-#EXTINF:-1 tvg-id="" tvg-name="USA PPV19: " tvg-logo="" group-title="USA PPV",USA PPV19:
-http://user.scalecdn.co:8080/26725074/92867131/524651
-#EXTINF:-1 tvg-id="" tvg-name="USA PPV20: " tvg-logo="" group-title="USA PPV",USA PPV20:
-http://user.scalecdn.co:8080/26725074/92867131/524652
-#EXTINF:-1 tvg-id="" tvg-name="USA PPV21: " tvg-logo="" group-title="USA PPV",USA PPV21:
-http://user.scalecdn.co:8080/26725074/92867131/524653
-#EXTINF:-1 tvg-id="" tvg-name="USA PPV22: " tvg-logo="" group-title="USA PPV",USA PPV22:
-http://user.scalecdn.co:8080/26725074/92867131/524654
-#EXTINF:-1 tvg-id="" tvg-name="USA PPV23: " tvg-logo="" group-title="USA PPV",USA PPV23:
-http://user.scalecdn.co:8080/26725074/92867131/524655
-#EXTINF:-1 tvg-id="" tvg-name="USA PPV24: " tvg-logo="" group-title="USA PPV",USA PPV24:
-http://user.scalecdn.co:8080/26725074/92867131/524656
-#EXTINF:-1 tvg-id="" tvg-name="USA PPV25: " tvg-logo="" group-title="USA PPV",USA PPV25:
-http://user.scalecdn.co:8080/26725074/92867131/524657
-#EXTINF:-1 tvg-id="" tvg-name="USA PPV26: " tvg-logo="" group-title="USA PPV",USA PPV26:
-http://user.scalecdn.co:8080/26725074/92867131/524658
-#EXTINF:-1 tvg-id="" tvg-name="USA PPV27: " tvg-logo="" group-title="USA PPV",USA PPV27:
-http://user.scalecdn.co:8080/26725074/92867131/524659
-#EXTINF:-1 tvg-id="" tvg-name="USA PPV28: " tvg-logo="" group-title="USA PPV",USA PPV28:
-http://user.scalecdn.co:8080/26725074/92867131/524660
-#EXTINF:-1 tvg-id="" tvg-name="USA PPV29: " tvg-logo="" group-title="USA PPV",USA PPV29:
-http://user.scalecdn.co:8080/26725074/92867131/524661
-#EXTINF:-1 tvg-id="" tvg-name="USA PPV30: " tvg-logo="" group-title="USA PPV",USA PPV30:
-http://user.scalecdn.co:8080/26725074/92867131/524662
-#EXTINF:-1 tvg-id="" tvg-name="USA PPV31: " tvg-logo="" group-title="USA PPV",USA PPV31:
-http://user.scalecdn.co:8080/26725074/92867131/524664
-#EXTINF:-1 tvg-id="" tvg-name="USA PPV32: " tvg-logo="" group-title="USA PPV",USA PPV32:
-http://user.scalecdn.co:8080/26725074/92867131/524665
-#EXTINF:-1 tvg-id="" tvg-name="USA PPV33: " tvg-logo="" group-title="USA PPV",USA PPV33:
-http://user.scalecdn.co:8080/26725074/92867131/524666
-#EXTINF:-1 tvg-id="" tvg-name="USA PPV34: " tvg-logo="" group-title="USA PPV",USA PPV34:
-http://user.scalecdn.co:8080/26725074/92867131/524667
-#EXTINF:-1 tvg-id="" tvg-name="USA PPV35: " tvg-logo="" group-title="USA PPV",USA PPV35:
-http://user.scalecdn.co:8080/26725074/92867131/524668
-#EXTINF:-1 tvg-id="" tvg-name="USA PPV36: " tvg-logo="" group-title="USA PPV",USA PPV36:
-http://user.scalecdn.co:8080/26725074/92867131/524669
-#EXTINF:-1 tvg-id="" tvg-name="USA PPV37: " tvg-logo="" group-title="USA PPV",USA PPV37:
-http://user.scalecdn.co:8080/26725074/92867131/524670
-#EXTINF:-1 tvg-id="" tvg-name="USA PPV38: " tvg-logo="" group-title="USA PPV",USA PPV38:
-http://user.scalecdn.co:8080/26725074/92867131/524671
-#EXTINF:-1 tvg-id="" tvg-name="USA PPV39: " tvg-logo="" group-title="USA PPV",USA PPV39:
-http://user.scalecdn.co:8080/26725074/92867131/524672
-#EXTINF:-1 tvg-id="" tvg-name="USA PPV40: " tvg-logo="" group-title="USA PPV",USA PPV40:
-http://user.scalecdn.co:8080/26725074/92867131/524673
-#EXTINF:-1 tvg-id="" tvg-name="USA PPV41: " tvg-logo="" group-title="USA PPV",USA PPV41:
-http://user.scalecdn.co:8080/26725074/92867131/554697
-#EXTINF:-1 tvg-id="" tvg-name="USA PPV42: " tvg-logo="" group-title="USA PPV",USA PPV42:
-http://user.scalecdn.co:8080/26725074/92867131/554698
-#EXTINF:-1 tvg-id="" tvg-name="USA PPV43: " tvg-logo="" group-title="USA PPV",USA PPV43:
-http://user.scalecdn.co:8080/26725074/92867131/554699
-#EXTINF:-1 tvg-id="" tvg-name="USA PPV44: " tvg-logo="" group-title="USA PPV",USA PPV44:
-http://user.scalecdn.co:8080/26725074/92867131/554700
-#EXTINF:-1 tvg-id="" tvg-name="USA PPV45: " tvg-logo="" group-title="USA PPV",USA PPV45:
-http://user.scalecdn.co:8080/26725074/92867131/554701
-#EXTINF:-1 tvg-id="" tvg-name="USA PPV46: " tvg-logo="" group-title="USA PPV",USA PPV46:
-http://user.scalecdn.co:8080/26725074/92867131/554702
-#EXTINF:-1 tvg-id="" tvg-name="USA PPV47: " tvg-logo="" group-title="USA PPV",USA PPV47:
-http://user.scalecdn.co:8080/26725074/92867131/554703
-#EXTINF:-1 tvg-id="" tvg-name="USA PPV48: " tvg-logo="" group-title="USA PPV",USA PPV48:
-http://user.scalecdn.co:8080/26725074/92867131/554704
-#EXTINF:-1 tvg-id="" tvg-name="USA PPV49: " tvg-logo="" group-title="USA PPV",USA PPV49:
-http://user.scalecdn.co:8080/26725074/92867131/554705
-#EXTINF:-1 tvg-id="" tvg-name="USA PPV50: " tvg-logo="" group-title="USA PPV",USA PPV50:
-http://user.scalecdn.co:8080/26725074/92867131/554706
-#EXTINF:-1 tvg-id="" tvg-name="USA PPV51: " tvg-logo="" group-title="USA PPV",USA PPV51:
-http://user.scalecdn.co:8080/26725074/92867131/554707
-#EXTINF:-1 tvg-id="" tvg-name="USA PPV52: " tvg-logo="" group-title="USA PPV",USA PPV52:
-http://user.scalecdn.co:8080/26725074/92867131/554708
-#EXTINF:-1 tvg-id="" tvg-name="USA PPV53: " tvg-logo="" group-title="USA PPV",USA PPV53:
-http://user.scalecdn.co:8080/26725074/92867131/554709
-#EXTINF:-1 tvg-id="" tvg-name="USA PPV54: " tvg-logo="" group-title="USA PPV",USA PPV54:
-http://user.scalecdn.co:8080/26725074/92867131/554710
-#EXTINF:-1 tvg-id="" tvg-name="USA PPV55: " tvg-logo="" group-title="USA PPV",USA PPV55:
-http://user.scalecdn.co:8080/26725074/92867131/554711
-#EXTINF:-1 tvg-id="" tvg-name="USA PPV56: " tvg-logo="" group-title="USA PPV",USA PPV56:
-http://user.scalecdn.co:8080/26725074/92867131/554712
-#EXTINF:-1 tvg-id="" tvg-name="USA PPV57: " tvg-logo="" group-title="USA PPV",USA PPV57:
-http://user.scalecdn.co:8080/26725074/92867131/554713
-#EXTINF:-1 tvg-id="" tvg-name="USA PPV58: " tvg-logo="" group-title="USA PPV",USA PPV58:
-http://user.scalecdn.co:8080/26725074/92867131/554714
-#EXTINF:-1 tvg-id="" tvg-name="USA PPV59: " tvg-logo="" group-title="USA PPV",USA PPV59:
-http://user.scalecdn.co:8080/26725074/92867131/554715
-#EXTINF:-1 tvg-id="89729" tvg-name="USA Real NBA 01: New York Knicks vs Charlotte Hornets @ 12:00 PM" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="USA NBA",USA Real NBA 01: New York Knicks vs Charlotte Hornets @ 12:00 PM
+#EXTINF:-1 tvg-id="89729" tvg-name="USA Real NBA 01: GSW Warriors VS PHX Suns ( NBA TV Feed ) @ 9:00 PM" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="USA NBA",USA Real NBA 01: GSW Warriors VS PHX Suns ( NBA TV Feed ) @ 9:00 PM
 http://user.scalecdn.co:8080/26725074/92867131/214171
-#EXTINF:-1 tvg-id="89730" tvg-name="USA Real NBA 02: Cleveland Cavaliers vs Atlanta Hawks @ 02:30 PM" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="USA NBA",USA Real NBA 02: Cleveland Cavaliers vs Atlanta Hawks @ 02:30 PM
+#EXTINF:-1 tvg-id="89730" tvg-name="USA Real NBA 02: Atlanta Hawks vs Charlotte Hornets @ 06:00 PM" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="USA NBA",USA Real NBA 02: Atlanta Hawks vs Charlotte Hornets @ 06:00 PM
 http://user.scalecdn.co:8080/26725074/92867131/214172
-#EXTINF:-1 tvg-id="89731" tvg-name="USA Real NBA 03: New Orleans Pelicans vs Memphis Grizzlies @ 05:00 PM" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="USA NBA",USA Real NBA 03: New Orleans Pelicans vs Memphis Grizzlies @ 05:00 PM
+#EXTINF:-1 tvg-id="89731" tvg-name="USA Real NBA 03: Philadelphia 76ers vs Detroit Pistons @ 07:00 PM" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="USA NBA",USA Real NBA 03: Philadelphia 76ers vs Detroit Pistons @ 07:00 PM
 http://user.scalecdn.co:8080/26725074/92867131/214173
-#EXTINF:-1 tvg-id="89732" tvg-name="USA Real NBA 04: Orlando Magic vs Brooklyn Nets @ 07:30 PM" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="USA NBA",USA Real NBA 04: Orlando Magic vs Brooklyn Nets @ 07:30 PM
+#EXTINF:-1 tvg-id="89732" tvg-name="USA Real NBA 04: Washington Wizards vs Milwaukee Bucks @ 08:00 PM" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="USA NBA",USA Real NBA 04: Washington Wizards vs Milwaukee Bucks @ 08:00 PM
 http://user.scalecdn.co:8080/26725074/92867131/214174
-#EXTINF:-1 tvg-id="89733" tvg-name="USA Real NBA 05: LA Clippers vs Minnesota Timberwolves @ 07:30 PM" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="USA NBA",USA Real NBA 05: LA Clippers vs Minnesota Timberwolves @ 07:30 PM
+#EXTINF:-1 tvg-id="89733" tvg-name="USA Real NBA 05: Dallas Mavericks vs Utah Jazz @ 09:30 PM" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="USA NBA",USA Real NBA 05: Dallas Mavericks vs Utah Jazz @ 09:30 PM
 http://user.scalecdn.co:8080/26725074/92867131/214175
-#EXTINF:-1 tvg-id="89734" tvg-name="USA Real NBA 06: Detroit Pistons vs Indiana Pacers @ 08:00 PM" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="USA NBA",USA Real NBA 06: Detroit Pistons vs Indiana Pacers @ 08:00 PM
+#EXTINF:-1 tvg-id="89734" tvg-name="USA Real NBA 06: " tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="USA NBA",USA Real NBA 06:
 http://user.scalecdn.co:8080/26725074/92867131/214176
-#EXTINF:-1 tvg-id="89735" tvg-name="USA Real NBA 07: Toronto Raptors vs Miami Heat @ 08:00 PM" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="USA NBA",USA Real NBA 07: Toronto Raptors vs Miami Heat @ 08:00 PM
+#EXTINF:-1 tvg-id="89735" tvg-name="USA Real NBA 07: " tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="USA NBA",USA Real NBA 07:
 http://user.scalecdn.co:8080/26725074/92867131/214177
-#EXTINF:-1 tvg-id="89736" tvg-name="USA Real NBA 08: Boston Celtics vs Chicago Bulls @ 08:00 PM" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="USA NBA",USA Real NBA 08: Boston Celtics vs Chicago Bulls @ 08:00 PM
+#EXTINF:-1 tvg-id="89736" tvg-name="USA Real NBA 08: " tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="USA NBA",USA Real NBA 08:
 http://user.scalecdn.co:8080/26725074/92867131/214178
-#EXTINF:-1 tvg-id="89737" tvg-name="USA Real NBA 09: Oklahoma City Thunder vs Los Angeles Lakers @ 10:00 PM" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="USA NBA",USA Real NBA 09: Oklahoma City Thunder vs Los Angeles Lakers @ 10:00 PM
+#EXTINF:-1 tvg-id="89737" tvg-name="USA Real NBA 09: " tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="USA NBA",USA Real NBA 09:
 http://user.scalecdn.co:8080/26725074/92867131/214179
-#EXTINF:-1 tvg-id="89738" tvg-name="USA Real NBA 10: Sacramento Kings vs Portland Trail Blazers @ 10:00 PM" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="USA NBA",USA Real NBA 10: Sacramento Kings vs Portland Trail Blazers @ 10:00 PM
+#EXTINF:-1 tvg-id="89738" tvg-name="USA Real NBA 10: " tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="USA NBA",USA Real NBA 10:
 http://user.scalecdn.co:8080/26725074/92867131/214180
 #EXTINF:-1 tvg-id="89739" tvg-name="USA Real NBA 11: " tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="USA NBA",USA Real NBA 11:
 http://user.scalecdn.co:8080/26725074/92867131/214181
@@ -495,43 +496,43 @@ http://user.scalecdn.co:8080/26725074/92867131/214228
 http://user.scalecdn.co:8080/26725074/92867131/214229
 #EXTINF:-1 tvg-id="89788" tvg-name="USA Real NBA 60: " tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="USA NBA",USA Real NBA 60:
 http://user.scalecdn.co:8080/26725074/92867131/214230
-#EXTINF:-1 tvg-id="89662" tvg-name="USA Real NHL 01: NYR VS PHI (NBCSP Feed ) @ 1:00 pm" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 01: NYR VS PHI (NBCSP Feed ) @ 1:00 pm
+#EXTINF:-1 tvg-id="89662" tvg-name="USA Real NHL 01: MTL VS NYR (NHLN Feed ) @ 1:00 pm" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 01: MTL VS NYR (NHLN Feed ) @ 1:00 pm
 http://user.scalecdn.co:8080/26725074/92867131/205046
-#EXTINF:-1 tvg-id="89663" tvg-name="USA Real NHL 02: CGY VS CBJ (SNW Feed ) @ 3:00 pm" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 02: CGY VS CBJ (SNW Feed ) @ 3:00 pm
+#EXTINF:-1 tvg-id="89663" tvg-name="USA Real NHL 02: MTL VS NYR (RDS Feed ) @ 1:00 pm" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 02: MTL VS NYR (RDS Feed ) @ 1:00 pm
 http://user.scalecdn.co:8080/26725074/92867131/205047
-#EXTINF:-1 tvg-id="89664" tvg-name="USA Real NHL 03: CGY VS CBJ (SN1 Feed ) @ 3:00 pm" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 03: CGY VS CBJ (SN1 Feed ) @ 3:00 pm
+#EXTINF:-1 tvg-id="89664" tvg-name="USA Real NHL 03: MTL VS NYR (MSG Feed ) @ 1:00 pm" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 03: MTL VS NYR (MSG Feed ) @ 1:00 pm
 http://user.scalecdn.co:8080/26725074/92867131/205048
-#EXTINF:-1 tvg-id="89665" tvg-name="USA Real NHL 04: TBL VS NSH (SN Feed ) @ 3:00 pm" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 04: TBL VS NSH (SN Feed ) @ 3:00 pm
+#EXTINF:-1 tvg-id="89665" tvg-name="USA Real NHL 04: CAR VS FLA (SN1 Feed ) @ 4:00 pm" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 04: CAR VS FLA (SN1 Feed ) @ 4:00 pm
 http://user.scalecdn.co:8080/26725074/92867131/205049
-#EXTINF:-1 tvg-id="89666" tvg-name="USA Real NHL 05: TBL VS NSH (NHLN Feed ) @ 3:00 pm" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 05: TBL VS NSH (NHLN Feed ) @ 3:00 pm
+#EXTINF:-1 tvg-id="89666" tvg-name="USA Real NHL 05: TOR VS TBL (SN Feed ) @ 7:00 pm" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 05: TOR VS TBL (SN Feed ) @ 7:00 pm
 http://user.scalecdn.co:8080/26725074/92867131/205050
-#EXTINF:-1 tvg-id="89667" tvg-name="USA Real NHL 06: TBL VS NSH (TVAS Feed ) @ 3:00 pm" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 06: TBL VS NSH (TVAS Feed ) @ 3:00 pm
+#EXTINF:-1 tvg-id="89667" tvg-name="USA Real NHL 06: WSH VS NJD (MSG Feed ) @ 7:00 pm" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 06: WSH VS NJD (MSG Feed ) @ 7:00 pm
 http://user.scalecdn.co:8080/26725074/92867131/205051
-#EXTINF:-1 tvg-id="89668" tvg-name="USA Real NHL 07: SEA VS SJS (NBCSCA Feed ) @ 3:30 pm" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 07: SEA VS SJS (NBCSCA Feed ) @ 3:30 pm
+#EXTINF:-1 tvg-id="89668" tvg-name="USA Real NHL 07: CGY VS PIT (NHLN Feed ) @ 7:00 pm" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 07: CGY VS PIT (NHLN Feed ) @ 7:00 pm
 http://user.scalecdn.co:8080/26725074/92867131/205052
-#EXTINF:-1 tvg-id="89669" tvg-name="USA Real NHL 08: PIT VS BOS (SN Feed ) @ 6:30 pm" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 08: PIT VS BOS (SN Feed ) @ 6:30 pm
+#EXTINF:-1 tvg-id="89669" tvg-name="USA Real NHL 08: CGY VS PIT (SNW Feed ) @ 7:00 pm" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 08: CGY VS PIT (SNW Feed ) @ 7:00 pm
 http://user.scalecdn.co:8080/26725074/92867131/205053
-#EXTINF:-1 tvg-id="89670" tvg-name="USA Real NHL 09: PIT VS BOS (TVAS Feed ) @ 6:30 pm" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 09: PIT VS BOS (TVAS Feed ) @ 6:30 pm
+#EXTINF:-1 tvg-id="89670" tvg-name="USA Real NHL 09: PHI VS STL (NBCSP Feed ) @ 7:00 pm" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 09: PHI VS STL (NBCSP Feed ) @ 7:00 pm
 http://user.scalecdn.co:8080/26725074/92867131/205054
-#EXTINF:-1 tvg-id="89671" tvg-name="USA Real NHL 10: COL VS DAL (SN Feed ) @ 9:00 pm" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 10: COL VS DAL (SN Feed ) @ 9:00 pm
+#EXTINF:-1 tvg-id="89671" tvg-name="USA Real NHL 10: OTT VS LAK (SN1 Feed ) @ 7:00 pm" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 10: OTT VS LAK (SN1 Feed ) @ 7:00 pm
 http://user.scalecdn.co:8080/26725074/92867131/205055
-#EXTINF:-1 tvg-id="89672" tvg-name="USA Real NHL 11: EDM VS UTA (SNW Feed ) @ 9:00 pm" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 11: EDM VS UTA (SNW Feed ) @ 9:00 pm
+#EXTINF:-1 tvg-id="89672" tvg-name="USA Real NHL 11: OTT VS LAK (TVAS Feed ) @ 7:00 pm" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 11: OTT VS LAK (TVAS Feed ) @ 7:00 pm
 http://user.scalecdn.co:8080/26725074/92867131/205056
-#EXTINF:-1 tvg-id="89673" tvg-name="USA Real NHL 12: EDM VS UTA (TVAS Feed ) @ 9:00 pm" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 12: EDM VS UTA (TVAS Feed ) @ 9:00 pm
+#EXTINF:-1 tvg-id="89673" tvg-name="USA Real NHL 12: EDM VS COL (SN Feed ) @ 10:00 pm" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 12: EDM VS COL (SN Feed ) @ 10:00 pm
 http://user.scalecdn.co:8080/26725074/92867131/205057
-#EXTINF:-1 tvg-id="89674" tvg-name="USA Real NHL 13: Vancouver  vs Buffalo @ 03:00 PM" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 13: Vancouver  vs Buffalo @ 03:00 PM
+#EXTINF:-1 tvg-id="89674" tvg-name="USA Real NHL 13: EDM VS COL (TVAS Feed ) @ 10:00 pm" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 13: EDM VS COL (TVAS Feed ) @ 10:00 pm
 http://user.scalecdn.co:8080/26725074/92867131/205058
-#EXTINF:-1 tvg-id="89675" tvg-name="USA Real NHL 14: New Jersey vs Detroit @ 03:00 PM" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 14: New Jersey vs Detroit @ 03:00 PM
+#EXTINF:-1 tvg-id="89675" tvg-name="USA Real NHL 14: EDM VS COL (ALT Feed ) @ 10:00 pm" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 14: EDM VS COL (ALT Feed ) @ 10:00 pm
 http://user.scalecdn.co:8080/26725074/92867131/205059
-#EXTINF:-1 tvg-id="89676" tvg-name="USA Real NHL 15: New York vs Washington @ 03:00 PM" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 15: New York vs Washington @ 03:00 PM
+#EXTINF:-1 tvg-id="89676" tvg-name="USA Real NHL 15: SJS VS SEA (NBCSCA Feed ) @ 10:00 pm" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 15: SJS VS SEA (NBCSCA Feed ) @ 10:00 pm
 http://user.scalecdn.co:8080/26725074/92867131/205060
-#EXTINF:-1 tvg-id="89677" tvg-name="USA Real NHL 16: Florida vs Carolina  @ 03:00 PM" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 16: Florida vs Carolina  @ 03:00 PM
+#EXTINF:-1 tvg-id="89677" tvg-name="USA Real NHL 16: Buffalo vs New York @ 07:30 PM" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 16: Buffalo vs New York @ 07:30 PM
 http://user.scalecdn.co:8080/26725074/92867131/205061
-#EXTINF:-1 tvg-id="89678" tvg-name="USA Real NHL 17: Calgary vs Columbus   @ 03:00 PM" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 17: Calgary vs Columbus   @ 03:00 PM
+#EXTINF:-1 tvg-id="89678" tvg-name="USA Real NHL 17: Nashville vs Minnesota @ 08:00 PM" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 17: Nashville vs Minnesota @ 08:00 PM
 http://user.scalecdn.co:8080/26725074/92867131/205062
-#EXTINF:-1 tvg-id="89679" tvg-name="USA Real NHL 18: Los Angeles vs Anaheim @ 03:30 PM" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 18: Los Angeles vs Anaheim @ 03:30 PM
+#EXTINF:-1 tvg-id="89679" tvg-name="USA Real NHL 18: Utah vs  Vegas @ 10:00 PM" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 18: Utah vs  Vegas @ 10:00 PM
 http://user.scalecdn.co:8080/26725074/92867131/205063
-#EXTINF:-1 tvg-id="89680" tvg-name="USA Real NHL 19: Winnipeg vs Vegas @ 08:30 PM" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 19: Winnipeg vs Vegas @ 08:30 PM
+#EXTINF:-1 tvg-id="89680" tvg-name="USA Real NHL 19: " tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 19:
 http://user.scalecdn.co:8080/26725074/92867131/205064
 #EXTINF:-1 tvg-id="89681" tvg-name="USA Real NHL 20: " tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 20:
 http://user.scalecdn.co:8080/26725074/92867131/205065
@@ -675,23 +676,3 @@ http://user.scalecdn.co:8080/26725074/92867131/89086
 http://user.scalecdn.co:8080/26725074/92867131/89087
 #EXTINF:-1 tvg-id="WSH.nba" tvg-name="[NBA] WASHINGTON WIZARDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Washington_Wizards_logo.svg/1200px-Washington_Wizards_logo.svg.png" group-title="USA NBA",[NBA] WASHINGTON WIZARDS
 http://user.scalecdn.co:8080/26725074/92867131/89088
-#EXTINF:-1 tvg-id="" tvg-name="WNBA 02: " tvg-logo="" group-title="SPORTS - WNBA",WNBA 02:
-http://user.scalecdn.co:8080/26725074/92867131/679464
-#EXTINF:-1 tvg-id="" tvg-name="WNBA 03 :  " tvg-logo="" group-title="SPORTS - WNBA",WNBA 03 :
-http://user.scalecdn.co:8080/26725074/92867131/679465
-#EXTINF:-1 tvg-id="" tvg-name="WNBA 04:  " tvg-logo="" group-title="SPORTS - WNBA",WNBA 04:
-http://user.scalecdn.co:8080/26725074/92867131/679466
-#EXTINF:-1 tvg-id="" tvg-name="WNBA 05:  " tvg-logo="" group-title="SPORTS - WNBA",WNBA 05:
-http://user.scalecdn.co:8080/26725074/92867131/679467
-#EXTINF:-1 tvg-id="" tvg-name="WNBA 06:  " tvg-logo="" group-title="SPORTS - WNBA",WNBA 06:
-http://user.scalecdn.co:8080/26725074/92867131/679468
-#EXTINF:-1 tvg-id="" tvg-name="WNBA 07" tvg-logo="" group-title="SPORTS - WNBA",WNBA 07
-http://user.scalecdn.co:8080/26725074/92867131/679469
-#EXTINF:-1 tvg-id="" tvg-name="WNBA 08" tvg-logo="" group-title="SPORTS - WNBA",WNBA 08
-http://user.scalecdn.co:8080/26725074/92867131/679470
-#EXTINF:-1 tvg-id="" tvg-name="WNBA 09" tvg-logo="" group-title="SPORTS - WNBA",WNBA 09
-http://user.scalecdn.co:8080/26725074/92867131/679471
-#EXTINF:-1 tvg-id="" tvg-name="WNBA 10" tvg-logo="" group-title="SPORTS - WNBA",WNBA 10
-http://user.scalecdn.co:8080/26725074/92867131/679472
-#EXTINF:-1 tvg-id="" tvg-name="WNBA 01:  Minnesota Lynx  vs New York Liberty @ 08:00 PM" tvg-logo="" group-title="SPORTS - WNBA",WNBA 01:  Minnesota Lynx  vs New York Liberty @ 08:00 PM
-http://user.scalecdn.co:8080/26725074/92867131/685882
